@@ -1,5 +1,5 @@
 # newspapernells.github.io
 artwork portfolio website
 
-taryntrousdale.com
+taryntrousdale.com&nbsp;
 tarynharner.com

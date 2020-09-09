@@ -1,5 +1,5 @@
 # newspapernells.github.io
-artwork portfolio website
+artwork portfolio website</br></br>
 
-taryntrousdale.com&nbsp;
+taryntrousdale.com</br>
 tarynharner.com
